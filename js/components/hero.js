@@ -17,7 +17,7 @@ export const heroSection = Vue.component('hero-section', {
     data() {
         return {
             fullName: 'Dmitry Kuptsov',
-            position: 'Junior PHP developer',
+            position: 'Software Engineer (PHP & Golang)',
         };
     }
 });

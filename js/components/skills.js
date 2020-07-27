@@ -17,10 +17,10 @@ export const skills = Vue.component('skills', {
     data() {
         return {
             skills: [
-                'PHP', 'MySQL', 'Symfony', 'Laravel', 'Design patterns',
+                'PHP', 'Go', 'MySQL', 'SQL', 'Symfony', 'Laravel', 'Design patterns',
                 'OOP', 'Vue', 'HTML5', 'JavaScript', 'Bootstrap', 'jQuery',
                 'Git', 'CSS', 'REST', 'Docker', 'PHPUnit', 'Kohana', 'MongoDB',
-                'RabbitMQ'
+                'RabbitMQ', 'Doctrine', 'Elasticsearch',
             ],
         };
     }
