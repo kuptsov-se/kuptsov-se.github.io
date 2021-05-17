@@ -13,7 +13,7 @@ export const languages = Vue.component('languages', {
                             <strong>Native</strong>
                         </li>
                         <li>
-                            <strong>English</strong> - Pre-intermediate (A2)
+                            <strong>English</strong> - Intermediate (B1)
                         </li>
                     </ul>
                 </div>
