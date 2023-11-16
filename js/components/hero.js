@@ -16,7 +16,7 @@ export const heroSection = Vue.component('hero-section', {
         </section>`,
     data() {
         return {
-            fullName: 'Dmitry Kuptsov',
+            fullName: 'Dmytro Kuptsov',
             position: 'Software Engineer (PHP & Golang)',
         };
     }
