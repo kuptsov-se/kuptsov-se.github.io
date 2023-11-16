@@ -49,7 +49,7 @@ export const contacts = Vue.component('contacts', {
             email: 'dkuptsov.ua@gmail.com',
             phoneLink: 'tel:+380974278919',
             phone: '+38 (097) 427-89-19',
-            linkedInLink: 'https://www.linkedin.com/in/dmitry-kuptsov/',
+            linkedInLink: 'https://www.linkedin.com/in/dmytro-kuptsov/',
             linkedInNickname: 'dmitry-kuptsov',
             telegramLink: 'https://t.me/dkuptsov_ua',
             telegramNickname: 'dkuptsov_ua',
