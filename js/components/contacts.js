@@ -50,7 +50,7 @@ export const contacts = Vue.component('contacts', {
             phoneLink: 'tel:+380974278919',
             phone: '+38 (097) 427-89-19',
             linkedInLink: 'https://www.linkedin.com/in/dmytro-kuptsov/',
-            linkedInNickname: 'dmitry-kuptsov',
+            linkedInNickname: 'dmytro-kuptsov',
             telegramLink: 'https://t.me/dkuptsov_ua',
             telegramNickname: 'dkuptsov_ua',
         };
